@@ -171,3 +171,4 @@ buildNumber.properties
 gcp-service-account-container-registry.json
 
 /bin/
+.envrc
